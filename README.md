@@ -1,1 +1,2 @@
 # RabbitmqTest
+RabbitMQ运行demo
